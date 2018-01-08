@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nqueenForeach", "nqueenForeach\nqueenForeach.csproj", "{8F567072-7B7E-4DDA-BB37-09132FD21E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9AA6D6E3-07CC-47F3-B57E-5A424160B26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NqueenMPI", "NqueenMPI\NqueenMPI.csproj", "{1B3B7725-1694-4F0C-AA0A-B28D9E8EDD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F567072-7B7E-4DDA-BB37-09132FD21E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F567072-7B7E-4DDA-BB37-09132FD21E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F567072-7B7E-4DDA-BB37-09132FD21E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F567072-7B7E-4DDA-BB37-09132FD21E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA6D6E3-07CC-47F3-B57E-5A424160B26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA6D6E3-07CC-47F3-B57E-5A424160B26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA6D6E3-07CC-47F3-B57E-5A424160B26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA6D6E3-07CC-47F3-B57E-5A424160B26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3B7725-1694-4F0C-AA0A-B28D9E8EDD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3B7725-1694-4F0C-AA0A-B28D9E8EDD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3B7725-1694-4F0C-AA0A-B28D9E8EDD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3B7725-1694-4F0C-AA0A-B28D9E8EDD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
